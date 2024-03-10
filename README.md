@@ -16,5 +16,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" widht="80" height="80"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" widht="80" height="80" /> 
 </div>
-
-![Snake animation](https://github.com/FeFeBS04/FeFeBS04/blob/output/github-contribution-grid-snake.svg)
